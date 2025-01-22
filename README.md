@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI_ChatBot_Python
 AI ChatBot using Python Tensorflow and Natural Language Processing (NLP) along side TFLearn
 Hey Guys!! Want to Learn about ChatBots? So the Solution is Here.
@@ -27,3 +28,6 @@ Instagram -  https://www.instagram.com/freebirdscrew
 
 
 The More You Analyze, More You Get Insights from the Data.
+=======
+# AI_ChatBot_Python
+>>>>>>> 8c82e75a935a6d08da58673674fb7b0dcbf88a66
